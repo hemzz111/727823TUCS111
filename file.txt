@@ -1,5 +1,10 @@
 Hey!!!
 This is my new text file!!!
+<<<<<<< HEAD
 This is a new edit after getting this from my friend
 Oops she edited it and pushed it into the git and i didn't know that but I am going to push again
 which results to get the conflicts
+=======
+
+New update for my git
+>>>>>>> 9c764babf01696c20d606e124e62e7a974fb4368
