@@ -1,2 +1,5 @@
-Hey!!! 
+Hey!!!
 This is my new text file!!!
+This is a new edit after getting this from my friend
+Oops she edited it and pushed it into the git and i didn't know that but I am going to push again
+which results to get the conflicts
